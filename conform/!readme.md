@@ -1,4 +1,4 @@
-# w_conform
+# conform
 worlds project
 
 броуновские частицы изначально случайных цветов
